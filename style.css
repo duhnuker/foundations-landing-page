@@ -175,3 +175,12 @@ h3 {
     text-align: left;
     font-size: 17px;
 }
+
+/* footer section */
+
+.footer {
+    background-color: #1f2937;
+    padding: 50px;
+    color: white;
+    font-size: 20px;
+}
