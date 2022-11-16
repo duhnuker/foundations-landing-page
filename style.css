@@ -159,14 +159,19 @@ p.hero {
     border-radius: 10px;
     width: 100px;
     height: 35px;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 h3 {
     color: white;
     text-align: left;
+    margin-bottom: -15px;
+    font-size: 20px;
 }
 
 .blue-box-text p {
     color: white;
     text-align: left;
+    font-size: 17px;
 }
